@@ -1,13 +1,12 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:00F7FF&text=Ankit%20Parmar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20|%20GenAI%20Enthusiast&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,100:00F7FF&text=Ankit%20Parmar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20|%20Future%20GenAI%20Engineer&descAlignY=58"/>
 </p>
 
 <div align="center">
 
 # Ankit Parmar
 
-### 🚀 Python Full Stack Developer | 🤖 Future GenAI Engineer
+### Python Full Stack Developer | GenAI Enthusiast
 
 <a href="https://www.linkedin.com/in/ankit-parmar-006919295/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,48 +32,33 @@
 
 I am a passionate **Python Full Stack Developer** and aspiring **GenAI Engineer** currently pursuing MCA at **Jaypee University, Anoopshahr**.
 
-I enjoy building scalable backend systems, smart web applications, and AI-powered solutions that solve real-world problems.
+I specialize in building scalable backend systems, REST APIs, and smart web applications that solve real-world problems efficiently.
 
-- 💻 Skilled in Django, DRF, REST APIs & Backend Development
+- 💻 Backend Developer skilled in Django, DRF & REST APIs
 - 🧠 Solved 100+ LeetCode & 200+ GeeksforGeeks problems
 - ⚡ Strong understanding of DSA, DBMS & Operating Systems
-- 🌱 Currently learning advanced GenAI & scalable architectures
+- 🌱 Exploring Generative AI, scalable architectures & intelligent systems
 
 ---
 
-# ⚒️ Tech Stack
+# 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,c,java,python,django,mysql,git,github,vscode"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/DRF-111827?style=for-the-badge&logo=django&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge&logo=codeforces&logoColor=00F7FF"/>
-
-</div>
+| Category | Skills & Tools |
+|----------|----------------|
+| Languages | Python, Java, C, HTML5, CSS3 |
+| Backend | Django, DRF, REST APIs |
+| Database | MySQL, DBMS |
+| Libraries | NumPy, Pandas, Matplotlib |
+| Core CS | DSA, Operating Systems |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-# 🌟 Featured Project
+# 💻 Featured Project
 
 ## 🚗 ParkNova – Smart Parking Finder System
 
-A smart solution designed to help users quickly find nearby available parking spaces while reducing traffic congestion and saving time.
+A smart solution designed to help users quickly find nearby available parking spaces while reducing traffic congestion and saving fuel.
 
 ### ✨ Key Features
 
@@ -93,6 +77,15 @@ https://smart-parking-finder-system.onrender.com
 
 💻 GitHub Repository  
 https://github.com/Ankit-8126/SMART_PARKING_FINDER_SYSTEM
+
+---
+
+# 🏆 Coding Profiles & Achievements
+
+- 🧠 Solved 100+ Problems on LeetCode
+- ⚡ Solved 200+ Problems on GeeksforGeeks
+- 📚 Strong Problem Solving & DSA Skills
+- 🚀 Actively building Full Stack & GenAI Projects
 
 ---
 
@@ -116,7 +109,7 @@ https://github.com/Ankit-8126/SMART_PARKING_FINDER_SYSTEM
 
 ---
 
-# 📈 Coding Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -131,19 +124,19 @@ https://github.com/Ankit-8126/SMART_PARKING_FINDER_SYSTEM
 <div align="center">
 
 <a href="https://github.com/Ankit-8126">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ankit-parmar-006919295/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
 
 <a href="mailto:ankitparmar8126@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
 <a href="https://www.instagram.com/loss_minimizer">
-<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="52"/>
 </a>
 
 </div>
@@ -161,4 +154,3 @@ https://github.com/Ankit-8126/SMART_PARKING_FINDER_SYSTEM
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=120&section=footer"/>
 </p>
-
