@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="220" style="border-radius:50%;" />
+<img src="https://github.com/Ankit-8126/Ankit-8126/blob/main/ankit.jpeg?raw=true" width="220" style="border-radius:50%;" />
 
 </div>
 
