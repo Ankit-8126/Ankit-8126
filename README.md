@@ -1,4 +1,4 @@
-```md id="v7s9xp"
+
 <h1 align="center">Hi 👋, I'm Ankit Parmar</h1>
 
 <h3 align="center">
@@ -190,5 +190,4 @@ https://github.com/Ankit-8126/SMART_PARKING_FINDER_SYSTEM
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=120&section=footer"/>
 
-</div>
-```
+
